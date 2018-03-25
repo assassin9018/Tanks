@@ -1,0 +1,9 @@
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).exe.config
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).csprojResolveAssemblyReference.cache
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks_C_sharp_.Form1.resources
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks_C_sharp_.Properties.Resources.resources
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).csproj.GenerateResource.Cache
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).exe
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).pdb
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).exe
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).pdb

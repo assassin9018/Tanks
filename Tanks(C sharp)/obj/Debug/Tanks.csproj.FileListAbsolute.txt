@@ -1,0 +1,36 @@
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).exe.config
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).exe
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).pdb
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks.Form1.resources
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks.Properties.Resources.resources
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks.csproj.GenerateResource.Cache
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).exe
+D:\Мой резерв\projects\Tanks(C sharp)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).pdb
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).exe.config
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).exe
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).pdb
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.Form1.resources
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.Properties.Resources.resources
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.csproj.GenerateResource.Cache
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).exe
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).pdb
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.About.resources
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\mscorlib.dll
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\ru\mscorlib.resources.dll
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\normidna.nlp
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\normnfc.nlp
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\normnfd.nlp
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\normnfkc.nlp
+D:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\normnfkd.nlp
+E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).exe.config
+E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).exe
+E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).pdb
+E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).exe
+E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).pdb
+E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.About.resources
+E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.Form1.resources
+E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.Properties.Resources.resources
+E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.csproj.GenerateResource.Cache
