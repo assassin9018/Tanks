@@ -34,3 +34,14 @@ E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.About.r
 E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.Form1.resources
 E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.Properties.Resources.resources
 E:\Мой резерв\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.csproj.GenerateResource.Cache
+C:\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).exe.config
+C:\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).exe
+C:\projects\Tanks(C#)\Tanks(C sharp)\bin\Debug\Tanks(C sharp).pdb
+C:\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.csprojAssemblyReference.cache
+C:\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.About.resources
+C:\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.Form1.resources
+C:\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.Properties.Resources.resources
+C:\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.csproj.GenerateResource.cache
+C:\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+C:\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).exe
+C:\projects\Tanks(C#)\Tanks(C sharp)\obj\Debug\Tanks(C sharp).pdb
