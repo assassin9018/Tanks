@@ -69,7 +69,7 @@ namespace Tanks
                     else canMove = false;
                     break;
                 case Direction.Right:
-                    if (bullet.Location.X - speed <= battleFieldSize.Width)
+                    if (bullet.Location.X + speed <= battleFieldSize.Width)
                         bullet.Location = new Point(bullet.Location.X + speed, bullet.Location.Y);
                     else canMove = false;
                     break;
